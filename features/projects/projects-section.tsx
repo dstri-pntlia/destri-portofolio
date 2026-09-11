@@ -88,8 +88,8 @@ export function ProjectsSection() {
               transition={{ duration: 0.25, ease: EASE_APPLE }}
             >
               <Stagger staggerChildren={0.08} className="mt-6 grid gap-4 sm:grid-cols-2">
-                {projects.map((project, index) => (
-                  <ProjectGridCard key={project.title} project={project} index={index} />
+                {projects.map((project) => (
+                  <ProjectGridCard key={project.title} project={project} />
                 ))}
               </Stagger>
             </motion.div>

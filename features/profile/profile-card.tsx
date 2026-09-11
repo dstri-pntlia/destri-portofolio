@@ -62,10 +62,7 @@ export function ProfileCard() {
             ))}
           </StaggerItem>
 
-          <StaggerItem
-            id="contact"
-            className="mt-8 flex flex-col gap-4 border-t border-border/60 pt-8 sm:flex-row sm:items-start sm:justify-between"
-          >
+          <StaggerItem className="mt-8 flex flex-col gap-4 border-t border-border/60 pt-8 sm:flex-row sm:items-start sm:justify-between">
             <div className="flex flex-wrap items-center gap-3">
               <Magnetic>
                 <Button asChild size="sm" className="rounded-md">

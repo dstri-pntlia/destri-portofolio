@@ -19,6 +19,8 @@ export interface Project {
   description: string;
   url?: string;
   tech: string[];
+  image?: string;
+  coverIcon?: IconComponent;
 }
 
 export interface ExperienceItem {
