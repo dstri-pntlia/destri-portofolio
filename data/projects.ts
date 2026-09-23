@@ -27,7 +27,7 @@ export const projects: Project[] = [
       "A protection and services platform for Indonesian migrant workers abroad — digital document storage, emergency support, placement tracking, and remittance, connecting workers, agencies, and government representatives in one app.",
     url: "https://devisaku.id/en",
     tech: ["TypeScript", "NestJS", "PostgreSQL"],
-    coverIcon: ShieldCheck,
+    image: "/projects/devisaku.png",
   },
   {
     title: "Medeasy",
@@ -44,6 +44,6 @@ export const projects: Project[] = [
     description:
       "Point your phone at your eye and get an instant screening — an ML model checks the photo for signs of cataracts and other eye disease, no clinic visit required. I built the backend behind that detection flow: endpoints, database, and deployment.",
     tech: ["TypeScript", "MySQL", "Google Cloud Platform"],
-    coverIcon: Eye,
+    image: "/projects/eyecare.png",
   },
 ];
