@@ -1,4 +1,3 @@
-import { Eye, ShieldCheck } from "lucide-react";
 import type { Project } from "@/types";
 
 export const projects: Project[] = [

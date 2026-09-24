@@ -14,7 +14,7 @@ export const siteConfig = {
   avatarInitials: "DN",
   email: "destriputrinatalia@gmail.com",
   location: "Jakarta, Indonesia",
-  url: "https://destriputri.dev",
+  url: "https://destriputrinatalia-portofolio.vercel.app",
   resumeUrl: "/resume/destri-putri-natalia-resume.pdf",
   github: "https://github.com/destriputri",
   gitlab: "https://gitlab.com/destriputri",
