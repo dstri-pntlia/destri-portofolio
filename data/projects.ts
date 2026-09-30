@@ -8,7 +8,7 @@ export const projects: Project[] = [
       "An HRIS and attendance platform with GPS-verified clock-in/out, leave and overtime management, work schedules, multi-branch support, and payroll integration for teams managing remote and hybrid staff.",
     url: "https://klikhadeer.com/",
     tech: ["TypeScript", "NestJS", "PostgreSQL", "RabbitMQ", "Firebase", "Next.js"],
-    image: "/projects/klikhadeer.png",
+    image: "/projects/klikhadeer.webp",
   },
   {
     title: "WorkNation",
